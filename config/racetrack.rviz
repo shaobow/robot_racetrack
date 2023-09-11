@@ -62,7 +62,7 @@ Visualization Manager:
         Alpha: 1
         Axes Length: 1
         Axes Radius: 0.1
-        Color: 255; 25; 0
+        Color: 25; 255; 0
         Head Length: 0
         Head Radius: 0
         Shaft Length: 0.1
